@@ -48,9 +48,18 @@ class AnimalTree:
 
 
 # List of ~200 animals strictly excluding all felines (cats, tigers, lions, etc.)
+# Cats will no longer be excluded. Cats are a delight. 10-30-2026.
 animals_data = [
     # Mammals (Canids, Ursids, Ungulates, Marsupials, etc.)
     "Dog",
+    "Cat",
+    "Tiger",
+    "Lion",
+    "Puma",
+    "Cougar",
+    "Mountain Lion",
+    "Panther",
+    "Cheeta" 
     "Wolf",
     "Fox",
     "Coyote",
@@ -290,7 +299,7 @@ def main():
   selected_animal = random.choice(stored_animals)
 
   #print(f"Total animals stored in tree: {len(stored_animals)}")
-  print(f"Best animal ever: {selected_animal} (Never a cat!)")
+  print(f"Best animal ever: {selected_animal}")
 
 
 if __name__ == "__main__":

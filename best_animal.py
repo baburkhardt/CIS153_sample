@@ -275,6 +275,8 @@ animals_data = [
 ]
 
 
+# Main function to execute the program
+
 def main():
   # Initialize the Binary Search Tree
   bst = AnimalTree()

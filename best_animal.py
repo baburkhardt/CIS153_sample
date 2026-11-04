@@ -272,6 +272,7 @@ animals_data = [
     "Scorpion",
     "Tarantula",
     "Spider",
+    "Tasmanian Tiger",
 ]
 
 

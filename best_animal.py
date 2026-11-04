@@ -223,6 +223,7 @@ animals_data = [
     "Salamander",
     "Newt",
     "Axolotl",
+    "Pterodactyl",
     # Fish & Marine Life
     "Great White Shark",
     "Hammerhead Shark",
